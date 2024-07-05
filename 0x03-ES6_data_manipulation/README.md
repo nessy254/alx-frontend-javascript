@@ -1,1 +1,1 @@
-0x03-ES6_data_manipulation tasks
+0x03-data_manipulation task
